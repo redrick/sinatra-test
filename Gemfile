@@ -1,0 +1,11 @@
+source 'https://rubygems.org'
+
+gem 'json', '1.8.6'
+gem 'rake'
+gem 'shotgun'
+gem 'thin'
+gem 'sinatra'
+gem 'sinatra-contrib'
+gem 'sinatra-assetpack'
+gem 'sinatra-static-assets'
+gem 'sinatra-flash'
